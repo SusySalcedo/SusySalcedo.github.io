@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #2f2f2f;
+	background-color: #b55377;
 }
 
 #footerwrap p {
@@ -197,13 +197,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {
-	background: url(../img/about.jpg) no-repeat center top;
+	background: url(../img/chillwall.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 550px;
+	min-height: 700px;
 	width: 100%;
 
     -webkit-background-size: 100%;
