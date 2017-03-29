@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/blueback.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #7c7e7f
 }
 
 #social {
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #97cddb;
+	background-color: #4078d1;
 }
 
 #footerwrap p {
@@ -197,7 +197,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {
-	background: url(../img/chillwall.jpg) no-repeat center top;
+	background: url(../img/aboutmoi.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
