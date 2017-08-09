@@ -101,8 +101,8 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/.jpg) no-repeat center top;
-  background-color: #F4D4E0
+	/*background: url(../img/.jpg) no-repeat center top;*/
+  background-color: #FFDDF0
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
